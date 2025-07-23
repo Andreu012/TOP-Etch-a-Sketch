@@ -10,4 +10,4 @@ Features implemented
 - Resizable grid
 - Hover to draw, in either black/white or random color mode
 
-Link on github pages: [https://andreu012.github.io/TOP-Etch-a-Sketch/](url)
+Link on github pages: https://andreu012.github.io/TOP-Etch-a-Sketch/
